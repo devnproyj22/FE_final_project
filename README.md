@@ -5,3 +5,4 @@
     * [Emmet 문법](https://docs.emmet.io/)
     * [기술 동향 모아보기](https://developer.mozilla.org/ko/)
     * [Heading Map](https://chromewebstore.google.com/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?pli=1)
+    * [URL인코딩,디코딩](https://www.urlencoder.org/ko/)
